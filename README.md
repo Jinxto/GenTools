@@ -23,7 +23,7 @@ A Selenium-based Java bot that automatically generates Nike accounts. The primar
 
 ## Overview
 
-GammaGen is a powerful bot designed to automate the process of creating Nike accounts. Leveraging Selenium and Java, this bot provides a robust solution for generating multiple accounts efficiently. The main functionality is accessed through a simple command-line interface.
+GenTools is a powerful bot designed to automate the process of creating Nike accounts. Leveraging Selenium and Java, this bot provides a robust solution for generating multiple accounts efficiently. The main functionality is accessed through a simple command-line interface.
 
 ## Features
 
