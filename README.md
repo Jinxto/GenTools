@@ -46,8 +46,8 @@ Before you begin, ensure you have met the following requirements:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/GammaGen.git
-cd GammaGen
+git clone https://github.com/yourusername/GenTools.git
+cd GenTools
 ```
 
 ### Build the Project
@@ -89,12 +89,12 @@ provider2:port2:username2:password2
 
 1. **Navigate to the Project Directory**:
     ```bash
-    cd GammaGen
+    cd GenTools
     ```
 
 2. **Run the Bot**:
     ```bash
-    java -jar target/gammagen-1.0-SNAPSHOT.jar
+    java -jar target/GenTools-1.0-SNAPSHOT.jar
     ```
 
 ### Command-Line Options
@@ -113,7 +113,7 @@ Follow the on-screen prompts to input the following details:
 
 1. **Initialize the Bot**:
     ```bash
-    java -jar target/gammagen-1.0-SNAPSHOT.jar
+    java -jar target/GenTools-1.0-SNAPSHOT.jar
     ```
 
 2. **On-Screen Prompts**:
