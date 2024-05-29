@@ -1,3 +1,7 @@
-com/sneakers/App.class
-com/sneakers/cookie.class
-com/sneakers/RandomUserAgent.class
+com\sneakers\MultiThreading.class
+com\sneakers\proxy.class
+com\sneakers\registerDetails.class
+com\sneakers\Registration.class
+com\sneakers\verification.class
+com\sneakers\App.class
+com\sneakers\deleteProcess.class

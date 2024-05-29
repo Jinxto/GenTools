@@ -14,8 +14,8 @@
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <maven.compiler.source>1.7</maven.compiler.source>
-    <maven.compiler.target>1.7</maven.compiler.target>
+    <maven.compiler.source>1.8</maven.compiler.source>
+    <maven.compiler.target>1.8</maven.compiler.target>
   </properties>
 
   <dependencies>
@@ -32,6 +32,13 @@
     <version>7.4.0</version>
     <scope>test</scope>
 </dependency>
+<!-- https://mvnrepository.com/artifact/com.mashape.unirest/unirest-java -->
+<dependency>
+    <groupId>com.mashape.unirest</groupId>
+    <artifactId>unirest-java</artifactId>
+    <version>1.4.9</version>
+</dependency>
+
     
     <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
     <dependency>
@@ -46,6 +53,7 @@
     <artifactId>selenium-java</artifactId>
     <version>4.0.0-alpha-1</version>
 </dependency>
+
   </dependencies>
 
   <build>
@@ -86,7 +94,7 @@
       <configuration>
         <archive>
           <manifest>
-            <mainClass>com.telegram.App</mainClass>
+            <mainClass>com.sneakers.App</mainClass>
           </manifest>
         </archive>
         <descriptorRefs>
